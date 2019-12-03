@@ -1,8 +1,8 @@
 # Tensorflow Course
 
-Repository is collection of Jupiter Notebooks containing code written during Tensorflow Course on Udemy.com. 
+Repository is collection of Jupiter Notebooks containing code written during Tensorflow and NLP Course on Udemy.com. 
 
-## Course contain topics:
+## Tensorflow Course contains topics:
 
 * NumPy Crash Course
 
@@ -17,3 +17,19 @@ Repository is collection of Jupiter Notebooks containing code written during Ten
 * Convolutional Neural Networks (CNN)
 
 * Recurrent Neural Networks (RNN)
+
+## NLP Course contains topics:
+
+* Python text basics
+
+* Natural language processing basics
+
+* Part of speech tagging and named entity recognition
+
+* Text classification
+
+* Semantics and sentiment analysis
+
+* Topic modeling
+
+* Deep learning for NLP
